@@ -14,4 +14,4 @@ var fs = require('fs');
 
 }
 
-fileReader('HooverInput.txt');
+fileReader('input.txt');

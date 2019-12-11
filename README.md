@@ -63,7 +63,7 @@ Example (matching the input above):
 1
 ```
 
-● DELIVERABLE: Output text file so it can automatically checked
+● DELIVERABLE: Output text file so it can be automatically checked.
 
 
 ### How to download and run the program
