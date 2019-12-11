@@ -1,0 +1,17 @@
+{
+  "name": "robot-hoover-navigator",
+  "version": "1.0.0",
+  "description": "a program that navigates an imaginary robotic hoover (much like a",
+  "main": "FileReader.js",
+  "dependencies": {
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Elsie Ashworth",
+  "license": "ISC"
+}
