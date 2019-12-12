@@ -1,5 +1,9 @@
 # Robot Hoover Navigator
 
+### First attempt at this program: please note:
+
+I attempted to write this program using Node.js - an attempt that unfortunately took up most of the time available. I installed Mocha and Chai, but despite getting the test framework up and running (with some sample tests running on a sample program) I was unable to write tests that would enable me to TDD the program in Node.js. I wrote a function to read from the input file, but in the absence of tests, decided that it would be a better idea to write the program in Ruby (which which I am more familiar). That repo is here: https://github.com/eashworth/Robot-Navigator-Ruby
+
 ### How to download and run the program:
 ```
 $git clone git@github.com:eashworth/Robot-Hoover-Navigator.git
