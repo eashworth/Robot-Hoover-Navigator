@@ -1,5 +1,13 @@
 # Robot Hoover Navigator
 
+### How to download and run the program:
+```
+$git clone git@github.com:eashworth/Robot-Hoover-Navigator.git
+$cd Robot-Hoover-Navigator
+$npm install
+$node fileReader.js
+```
+
 A program that navigates an imaginary robotic hoover (much like a [Roomba](https://en.wikipedia.org/wiki/Roomba)) through an equally imaginary room based on:
 
 ● Room dimensions as X and Y coordinates, identifying the top right corner of the room rectangle. This room is divided up in a grid based on these dimensions; a room that has dimensions X: 5 and Y: 5 has 5 columns and 5 rows, so 25 possible hoover positions. The bottom left corner is the point of origin for our coordinate system, so as the room contains all coordinates its bottom left corner is defined by X: 0 and Y: 0.
@@ -64,6 +72,3 @@ Example (matching the input above):
 ```
 
 ● DELIVERABLE: Output text file so it can be automatically checked.
-
-
-### How to download and run the program

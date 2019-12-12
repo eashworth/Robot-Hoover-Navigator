@@ -14,4 +14,10 @@ var fs = require('fs');
 
 }
 
-fileReader('input.txt');
+// var inputString = fileReader('input.txt')
+// inputString();
+console.log(fileReader('input.txt'));
+
+// function readFirstLine(inputString) {
+//   inputString.split("\n");
+// }
